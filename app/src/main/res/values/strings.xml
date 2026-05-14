@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ksheera-Sagara</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_milk">Milk</string>
+    <string name="nav_expense">Expenses</string>
+    <string name="nav_cows">Cows</string>
+
+    <string name="dashboard_title">Ksheera-Sagara</string>
+    <string name="dashboard_subtitle">Dairy Profit / Loss Tracker</string>
+    <string name="month_label">Month (YYYY-MM)</string>
+    <string name="profit_label">✅  PROFIT</string>
+    <string name="loss_label">🔴  LOSS</string>
+    <string name="net_profit_loss">Net Profit / Loss</string>
+    <string name="income_label">💰 Income</string>
+    <string name="expense_label">💸 Expenses</string>
+    <string name="total_liters">Total Liters Sold</string>
+    <string name="profit_per_liter">Profit Per Liter</string>
+    <string name="key_metrics">📊 Key Metrics</string>
+    <string name="tips_title">💡 Cost Reduction Tips</string>
+    <string name="tip_1">• Switch to home-grown fodder to cut feed costs</string>
+    <string name="tip_2">• Review non-productive cows — consider selling</string>
+    <string name="tip_3">• Group vet visits to reduce per-trip charges</string>
+
+    <string name="milk_screen_title">🥛 Milk Income Log</string>
+    <string name="add_milk_entry">Add Milk Slip Entry</string>
+    <string name="date_label">Date (YYYY-MM-DD)</string>
+    <string name="cow_name_label">Cow Name</string>
+    <string name="liters_label">Liters</string>
+    <string name="fat_label">Fat %</string>
+    <string name="snf_label">SNF %</string>
+    <string name="rate_label">Rate per Liter (₹)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="expense_screen_title">💸 Expense Log</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="category_label">Category</string>
+    <string name="description_label">Description</string>
+    <string name="amount_label">Amount (₹)</string>
+    <string name="cat_fodder">Fodder</string>
+    <string name="cat_medical">Medical</string>
+    <string name="cat_labor">Labor</string>
+    <string name="cat_electricity">Electricity</string>
+    <string name="cat_other">Other</string>
+
+    <string name="cow_screen_title">🐄 My Cows</string>
+    <string name="add_cow">Add Cow</string>
+    <string name="breed_label">Breed (e.g. HF, Jersey)</string>
+    <string name="age_label">Age (years)</string>
+    <string name="delete">Delete</string>
+
+    <string name="login_title">Welcome to Ksheera-Sagara</string>
+    <string name="login_subtitle">Manage your dairy farm finances</string>
+    <string name="farmer_name_label">Farmer Name</string>
+    <string name="farm_name_label">Farm Name</string>
+    <string name="pin_label">PIN (4 digits)</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Create New Account</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_pin">Enter your PIN</string>
+    <string name="wrong_pin">Wrong PIN. Please try again.</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+</resources>
