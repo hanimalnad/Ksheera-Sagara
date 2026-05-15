@@ -225,21 +225,19 @@ Designed specifically for farmers with basic smartphone experience:
 
 ---
 
-# 📊 Core Metrics
+## 📊 Core Metrics
 
-The app calculates:
+### Net Profit
 
-## Net Profit
+`Net Profit = Total Income - Total Expenses`
 
-\text{Net Profit} = \text{Total Income} - \text{Total Expenses}
+### Profit Per Liter
 
-## Profit Per Liter
+`Profit Per Liter = Net Profit / Total Liters Produced`
 
-\text{Profit Per Liter} = \frac{\text{Net Profit}}{\text{Total Liters Produced}}
+### Cow Profit Estimate
 
-## Cow Profit Estimate
-
-\text{Cow Profit} = \text{Cow Income} - \left(\frac{\text{Cow Income}}{\text{Total Income}} \times \text{Total Expenses}\right)
+`Cow Profit = Cow Income - ((Cow Income / Total Income) × Total Expenses)`
 
 
 
