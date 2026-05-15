@@ -84,7 +84,9 @@ Generate monthly reports including:
 
 ---
 
-# 📱 APK Installation
+# 📥 Download APK
+
+[Download Latest APK](https://drive.google.com/file/d/1TeChanvj2RT4ZNuHQhBtgQWcbQbHR6bl/view?usp=sharing)
 
 ## Install APK
 
@@ -100,21 +102,19 @@ Generate monthly reports including:
 
 ---
 
-# 🖼️ Screenshots
-
 # 📸 Screenshots
 
 | Dashboard | Milk Log |
 |---|---|
-| ![](screenshots/ks 1.jpg) | ![](screenshots/ks 2.jpg) |
+| ![](screenshots/ks1.jpg) | ![](screenshots/ks2.jpg) |
 
 | Expenses | Cows |
 |---|---|
-| ![](screenshots/ks 3.jpg) | ![](screenshots/ks 4.jpg) |
+| ![](screenshots/ks3.jpg) | ![](screenshots/ks4.jpg) |
 
 | Analytics |
 |---|
-| ![](screenshots/ks 5.jpg) |
+| ![](screenshots/ks5.jpg) |
 
 
 ---
