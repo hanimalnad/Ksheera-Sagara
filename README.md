@@ -102,22 +102,20 @@ Generate monthly reports including:
 
 # 🖼️ Screenshots
 
-> Add screenshots here after uploading them.
+# 📸 Screenshots
 
-Example:
-
-```md
-## Screenshots
-
-
-| Dashboard | Milk Entry |
+| Dashboard | Milk Log |
 |---|---|
-| ![](screenshots/dashboard.png) | ![](screenshots/milk-entry.png) |
+| ![](screenshots/ks1.jpg) | ![](screenshots/ks2.jpg) |
 
-| Expense Tracker | Analytics |
+| Expenses | Cows |
 |---|---|
-| ![](screenshots/expenses.png) | ![](screenshots/analytics.png) |
-```
+| ![](screenshots/ks3.jpg) | ![](screenshots/ks4.jpg) |
+
+| Analytics |
+|---|
+| ![](screenshots/ks5.jpg) |
+
 
 ---
 
