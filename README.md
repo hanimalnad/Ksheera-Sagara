@@ -106,15 +106,15 @@ Generate monthly reports including:
 
 | Dashboard | Milk Log |
 |---|---|
-| ![](screenshots/ks1.jfif) | ![](screenshots/ks2.jfif) |
+| ![](screenshots/ks 1.jpg) | ![](screenshots/ks 2.jpg) |
 
 | Expenses | Cows |
 |---|---|
-| ![](screenshots/ks3.jfif) | ![](screenshots/ks4.jfif) |
+| ![](screenshots/ks 3.jpg) | ![](screenshots/ks 4.jpg) |
 
 | Analytics |
 |---|
-| ![](screenshots/ks5.jfif) |
+| ![](screenshots/ks 5.jpg) |
 
 
 ---
